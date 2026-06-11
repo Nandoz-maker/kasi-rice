@@ -1,0 +1,35 @@
+15:35:39 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.229.88.128:5000
+15:35:39 [INFO] [33mPress CTRL+C to quit[0m
+15:35:41 [INFO] 127.0.0.1 - - [02/Jun/2026 15:35:41] "GET / HTTP/1.1" 200 -
+15:35:41 [INFO] 127.0.0.1 - - [02/Jun/2026 15:35:41] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+15:35:41 [INFO] 127.0.0.1 - - [02/Jun/2026 15:35:41] "[36mGET /static/js/cart.js HTTP/1.1[0m" 304 -
+15:35:41 [INFO] 127.0.0.1 - - [02/Jun/2026 15:35:41] "[36mGET /static/uploads/PROD-D91CC988FD.jpg HTTP/1.1[0m" 304 -
+15:35:41 [INFO] 127.0.0.1 - - [02/Jun/2026 15:35:41] "[36mGET /static/uploads/PROD-D7AA535669.jpg HTTP/1.1[0m" 304 -
+15:35:41 [INFO] 127.0.0.1 - - [02/Jun/2026 15:35:41] "[36mGET /static/css/admin.css HTTP/1.1[0m" 304 -
+15:35:41 [INFO] 127.0.0.1 - - [02/Jun/2026 15:35:41] "[36mGET /static/uploads/HERO_040B0A3CBF.png HTTP/1.1[0m" 304 -
+15:35:41 [INFO] 127.0.0.1 - - [02/Jun/2026 15:35:41] "[36mGET /static/uploads/HERO_8830ED4726.jpg HTTP/1.1[0m" 304 -
+15:35:41 [INFO] 127.0.0.1 - - [02/Jun/2026 15:35:41] "[36mGET /static/uploads/HERO_9D36A23971.jpg HTTP/1.1[0m" 304 -
+15:35:47 [INFO] 127.0.0.1 - - [02/Jun/2026 15:35:47] "GET /products HTTP/1.1" 200 -
+15:35:47 [INFO] 127.0.0.1 - - [02/Jun/2026 15:35:47] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+15:35:47 [INFO] 127.0.0.1 - - [02/Jun/2026 15:35:47] "[36mGET /static/css/admin.css HTTP/1.1[0m" 304 -
+15:35:47 [INFO] 127.0.0.1 - - [02/Jun/2026 15:35:47] "[36mGET /static/uploads/PROD-D91CC988FD.jpg HTTP/1.1[0m" 304 -
+15:35:47 [INFO] 127.0.0.1 - - [02/Jun/2026 15:35:47] "[36mGET /static/uploads/PROD-D7AA535669.jpg HTTP/1.1[0m" 304 -
+15:35:47 [INFO] 127.0.0.1 - - [02/Jun/2026 15:35:47] "[36mGET /static/js/cart.js HTTP/1.1[0m" 304 -
+15:35:49 [INFO] 127.0.0.1 - - [02/Jun/2026 15:35:49] "POST /cart/add HTTP/1.1" 200 -
+15:35:50 [INFO] 127.0.0.1 - - [02/Jun/2026 15:35:50] "GET /cart HTTP/1.1" 200 -
+15:35:50 [INFO] 127.0.0.1 - - [02/Jun/2026 15:35:50] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+15:35:50 [INFO] 127.0.0.1 - - [02/Jun/2026 15:35:50] "[36mGET /static/uploads/PROD-D7AA535669.jpg HTTP/1.1[0m" 304 -
+15:35:50 [INFO] 127.0.0.1 - - [02/Jun/2026 15:35:50] "[36mGET /static/css/admin.css HTTP/1.1[0m" 304 -
+15:35:50 [INFO] 127.0.0.1 - - [02/Jun/2026 15:35:50] "[36mGET /static/js/cart.js HTTP/1.1[0m" 304 -
+15:35:52 [INFO] 127.0.0.1 - - [02/Jun/2026 15:35:52] "GET /checkout HTTP/1.1" 200 -
+15:35:52 [INFO] 127.0.0.1 - - [02/Jun/2026 15:35:52] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+15:35:52 [INFO] 127.0.0.1 - - [02/Jun/2026 15:35:52] "[36mGET /static/css/admin.css HTTP/1.1[0m" 304 -
+15:35:52 [INFO] 127.0.0.1 - - [02/Jun/2026 15:35:52] "[36mGET /static/js/cart.js HTTP/1.1[0m" 304 -
+15:36:46 [INFO] 127.0.0.1 - - [02/Jun/2026 15:36:46] "[32mPOST /checkout HTTP/1.1[0m" 302 -
+15:36:46 [INFO] 127.0.0.1 - - [02/Jun/2026 15:36:46] "GET /dashboard?user_id=USR-485371A8D0DE HTTP/1.1" 200 -
+15:36:46 [INFO] 127.0.0.1 - - [02/Jun/2026 15:36:46] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+15:36:46 [INFO] 127.0.0.1 - - [02/Jun/2026 15:36:46] "[36mGET /static/css/admin.css HTTP/1.1[0m" 304 -
+15:36:46 [INFO] 127.0.0.1 - - [02/Jun/2026 15:36:46] "[36mGET /static/js/cart.js HTTP/1.1[0m" 304 -
